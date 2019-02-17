@@ -1,0 +1,43 @@
+ 
+ html{
+ margin:10;
+ padding:10;
+}
+  body{
+   }
+  p{
+  color:red;
+   background-color:;
+font-size:70%; }
+h5{color:orange;
+ font-size:100%;
+  padding:1px;
+  border:1px Solid 
+  }
+ #intro{
+ color:red;
+ background-color:blue;
+  font-size:90%;}
+  p.inset{
+  padding:2px;
+  border-style:inset;}
+h3{
+color:orange;
+padding:1px;
+border:1px solid
+}
+
+.images_petit{widtg:200px;height:200px;}
+ h4{
+ color:orange;
+ font-size:100%;
+ padding:1px;
+ border:1px solid;
+ }
+ a:link{
+  text-decoration:none;}
+  a:link{
+  text-decoration:none;}
+  
+  line{
+  padding:30px;margin:30px; border:solid 2px;widht:100%;}
